@@ -10,7 +10,7 @@ logging.basicConfig(
     filename='file_organizer.log', # Log file name
     filemode='a', # Append mode, so logs are added to the end of the file
     level=logging.INFO, # Log level (INFO and above)
-    format='%asctime)s - %(levelname)s - %(message)s' # Log format with timestamp, level, and message
+    format='%(asctime)s - %(levelname)s - %(message)s' # Log format with timestamp, level, and message
 )
 
 print("Starting file organizer...")  # Let the user know script started
