@@ -49,4 +49,8 @@ A simple Python script to automatically organize your Downloads folder by file t
   ## License
 
   This project is licensed under the MIT License
+
+  ## Why I made this
+
+  This project is my first "real project" in an attempt to break into the tech space with hopes to eventually do freelance work
   
